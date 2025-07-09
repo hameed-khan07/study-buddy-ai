@@ -1,24 +1,24 @@
 # Study Buddy AI 📚
 
-आपका व्यक्तिगत AI Study Partner जो आपके सभी अकादमिक सवालों का जवाब देगा! यह परियोजना Google Gemini AI मॉडल का उपयोग करके जटिल अवधारणाओं को सरल और समझने योग्य तरीके से समझाने के लिए एक इंटरैक्टिव वेब इंटरफेस प्रदान करती है।
+Your personal AI Study Partner that answers all your academic questions! This project leverages the Google Gemini AI model to explain complex concepts in a simplified and understandable manner, providing an interactive web interface.
 
-## Features (विशेषताएं)
--   **Concept Explanation:** किसी भी विषय पर स्पष्ट और संक्षिप्त स्पष्टीकरण प्राप्त करें।
--   **Bilingual Support:** हिंदी और अंग्रेजी दोनों में प्रश्नों को समझता है और जवाब देता है।
--   **User-Friendly Interface:** Streamlit द्वारा बनाया गया एक सरल और सहज ज्ञान युक्त वेब एप्लिकेशन।
+## Features
+- **Concept Explanation:** Get clear and concise explanations on any topic.
+- **Bilingual Support:** Understands and responds to questions in both Hindi and English.
+- **User-Friendly Interface:** A simple and intuitive web application built with Streamlit.
 
-## Technologies Used (उपयोग की गई तकनीकें)
--   **Python:** मुख्य प्रोग्रामिंग भाषा।
--   **Google Gemini API:** AI-संचालित स्पष्टीकरण के लिए।
--   **Streamlit:** इंटरैक्टिव वेब UI बनाने के लिए।
--   **Natural Language Processing (NLP):** यूजर के प्रश्नों को समझने के लिए।
--   **Prompt Engineering:** AI से सर्वोत्तम और प्रासंगिक प्रतिक्रिया प्राप्त करने के लिए।
+## Technologies Used
+- **Python:** The primary programming language.
+- **Google Gemini API:** For AI-powered explanations.
+- **Streamlit:** To create the interactive web UI.
+- **Natural Language Processing (NLP):** To understand user queries.
+- **Prompt Engineering:** To get the best and most relevant responses from the AI.
 
-## Setup Instructions (सेटअप निर्देश)
+## Setup Instructions
 
-इन निर्देशों का पालन करके आप प्रोजेक्ट को स्थानीय रूप से चला सकते हैं।
+Follow these instructions to run the project locally.
 
-### 1. Clone the Repository (रिपॉजिटरी को क्लोन करें)
+### 1. Clone the Repository
 ```bash
 git clone [https://github.com/YourGitHubUsername/study_buddy_ai.git](https://github.com/YourGitHubUsername/study_buddy_ai.git)
 cd study_buddy_ai
